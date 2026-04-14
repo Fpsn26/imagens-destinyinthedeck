@@ -925,21 +925,21 @@ Each has 2 poses: idle and their characteristic expression.
 Use esta lista para rastrear o progresso das gerações:
 
 ## Backgrounds Estáticos
-- [ ] Cidade Natal (Prólogo)
-- [ ] Quarto do Protagonista (Prólogo)
-- [ ] Corredor Escolar (Evento 1)
-- [ ] Rua Primaveril — Manhã (Evento 2)
-- [ ] Cerimônia de Formatura (Evento 3)
-- [ ] Apartamento Pequeno — Noite (Evento 4)
-- [ ] Restaurante Japonês — Noite (Evento 5)
-- [ ] Sala com Fotos na Parede (Evento 6)
-- [ ] Salão da Festa — Requiem (Evento 7)
-- [ ] Final Especial — Salão Governamental
-- [ ] Final 1 — Festa ao Fim da Noite
-- [ ] Final 2 — O Solitário na Multidão
-- [ ] Final 3 — Festa Simples e Cheia
-- [ ] Final 4 — Quarto de Hospital
-- [ ] Final 5 — A Bolha de Vidro
+- [x] Cidade Natal (Prólogo)
+- [x] Quarto do Protagonista (Prólogo)
+- [x] Corredor Escolar (Evento 1)
+- [x] Rua Primaveril — Manhã (Evento 2)
+- [x] Cerimônia de Formatura (Evento 3)
+- [x] Apartamento Pequeno — Noite (Evento 4)
+- [x] Restaurante Japonês — Noite (Evento 5)
+- [x] Sala com Fotos na Parede (Evento 6)
+- [x] Salão da Festa — Requiem (Evento 7)
+- [x] Final Especial — Salão Governamental
+- [x] Final 1 — Festa ao Fim da Noite
+- [x] Final 2 — O Solitário na Multidão
+- [x] Final 3 — Festa Simples e Cheia
+- [x] Final 4 — Quarto de Hospital
+- [x] Final 5 — A Bolha de Vidro
 
 ## Cutscenes (total de frames)
 - [ ] Evento 1 — Escolha A (3 frames)

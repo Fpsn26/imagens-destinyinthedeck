@@ -942,23 +942,23 @@ Use esta lista para rastrear o progresso das gerações:
 - [x] Final 5 — A Bolha de Vidro
 
 ## Cutscenes (total de frames)
-- [ ] Evento 1 — Escolha A (3 frames)
-- [ ] Evento 1 — Escolha B (2 frames)
-- [ ] Evento 1 — Escolha C (2 frames)
-- [ ] Evento 2 — Sequência Principal de Yui (3 frames)
-- [ ] Evento 2 — Resultado A: Ignorar (1 frame)
-- [ ] Evento 2 — Resultado B: Polícia (2 frames)
-- [ ] Evento 2 — Resultado C: Intervenção (2 frames) ⭐
-- [ ] Evento 3 — Despedida dos Quatro (2 frames)
-- [ ] Evento 4 — A Janela de Sexta (1 frame)
-- [ ] Evento 5 — Reencontro com Yui (2 frames)
-- [ ] Evento 5 — Condicional A: Sorriso (1 frame)
-- [ ] Evento 5 — Condicional B: Memória (1 frame)
-- [ ] Evento 5 — Condicional C: Despedida (1 frame)
-- [ ] Evento 6 — O Homem nas Fotos (2 frames)
-- [ ] Evento 7 — O Homem ao Piano (3 frames) ⭐
-- [ ] Evento 7 — Os Três Amigos (1 frame)
-- [ ] Final Especial — Encerramento (1 frame)
+- [x] Evento 1 — Escolha A (3 frames)
+- [x] Evento 1 — Escolha B (2 frames)
+- [x] Evento 1 — Escolha C (2 frames)
+- [x] Evento 2 — Sequência Principal de Yui (3 frames)
+- [x] Evento 2 — Resultado A: Ignorar (1 frame)
+- [x] Evento 2 — Resultado B: Polícia (2 frames)
+- [x] Evento 2 — Resultado C: Intervenção (2 frames) ⭐
+- [x] Evento 3 — Despedida dos Quatro (2 frames)
+- [x] Evento 4 — A Janela de Sexta (1 frame)
+- [x] Evento 5 — Reencontro com Yui (2 frames)
+- [x] Evento 5 — Condicional A: Sorriso (1 frame)
+- [x] Evento 5 — Condicional B: Memória (1 frame)
+- [x] Evento 5 — Condicional C: Despedida (1 frame)
+- [x] Evento 6 — O Homem nas Fotos (2 frames)
+- [x] Evento 7 — O Homem ao Piano (3 frames) ⭐
+- [x] Evento 7 — Os Três Amigos (1 frame)
+- [x] Final Especial — Encerramento (1 frame)
 
 ## Sprites
 - [ ] Protagonista — 12 anos
